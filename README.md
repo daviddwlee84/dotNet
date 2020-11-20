@@ -45,3 +45,20 @@ sudo apt-get update; \
 ## Resources
 
 * [dotnet/core: Home repository for .NET Core](https://github.com/dotnet/core)
+
+### Libraries
+
+* [dotnet/aspnetcore: ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.](https://github.com/dotnet/aspnetcore)
+
+Machine Learning
+
+* [dotnet/machinelearning: ML.NET is an open source and cross-platform machine learning framework for .NET.](https://github.com/dotnet/machinelearning)
+  * [rxFastTrees function (MicrosoftML) | Microsoft Docs](https://docs.microsoft.com/en-us/machine-learning-server/r-reference/microsoftml/rxfasttrees)
+
+Cloud
+
+* [googleapis/google-cloud-dotnet: Google Cloud Client Libraries for .NET](https://github.com/googleapis/google-cloud-dotnet)
+
+Application
+
+* [dotnet/maui: .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.](https://github.com/dotnet/maui)
