@@ -48,12 +48,11 @@ sudo apt-get update; \
 
 ### Libraries
 
-* [dotnet/aspnetcore: ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.](https://github.com/dotnet/aspnetcore)
-
 Machine Learning
 
 * [dotnet/machinelearning: ML.NET is an open source and cross-platform machine learning framework for .NET.](https://github.com/dotnet/machinelearning)
   * [rxFastTrees function (MicrosoftML) | Microsoft Docs](https://docs.microsoft.com/en-us/machine-learning-server/r-reference/microsoftml/rxfasttrees)
+* [Microsoft.Recognizers.Text](https://github.com/Microsoft/Recognizers-Text/tree/master/.NET)
 
 Cloud
 
@@ -61,4 +60,10 @@ Cloud
 
 Application
 
+* [dotnet/aspnetcore: ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.](https://github.com/dotnet/aspnetcore)
 * [dotnet/maui: .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.](https://github.com/dotnet/maui)
+* [dotnet-architecture/eShopOnContainers: Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.](https://github.com/dotnet-architecture/eShopOnContainers)
+
+API
+
+* [gRPC](https://github.com/grpc/grpc/tree/master/src/csharp)
