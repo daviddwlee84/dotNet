@@ -45,6 +45,9 @@ sudo apt-get update; \
 * Development
   * [Download .NET SDK for Visual Studio Code](https://dotnet.microsoft.com/en-us/download/dotnet/sdk-for-vs-code?utm_source=vs-code&amp;utm_medium=referral&amp;utm_campaign=sdk-install)
   * [Create a .NET console application using Visual Studio Code - .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code?WT.mc_id=dotnet-35129-website&pivots=dotnet-6-0)
+  * [Debug a .NET console application using Visual Studio Code - .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/tutorials/debugging-with-visual-studio-code?pivots=dotnet-6-0)
+    * [omnisharp-vscode/debugger-launchjson.md at master · OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md)
+  * [Create a .NET class library using Visual Studio Code - .NET | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/tutorials/library-with-visual-studio-code?pivots=dotnet-6-0) (TODO)
 
 ## Resources
 
