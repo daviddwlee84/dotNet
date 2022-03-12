@@ -28,6 +28,15 @@ sudo apt-get update; \
   sudo apt-get install -y aspnetcore-runtime-5.0
 ```
 
+## C# Basics
+
+> I will do this without Visual Studio.
+> Make sure you have your dotNet framework installed correctly.
+> and be able to use `dotnet` command and `csc.exe` to compile C# files.
+
+* [Hello World](Basics/HelloWorldWithoutVisualStudio)
+* [Create DLL and Invoke](Basics/CompileIntoDLLWithoutVisualStudio)
+
 ## Note
 
 ### `.gitignore` for .Net
@@ -74,3 +83,7 @@ Application
 API
 
 * [gRPC](https://github.com/grpc/grpc/tree/master/src/csharp)
+
+### Online Compiler
+
+* [C# Online Compiler | .NET Fiddle](https://dotnetfiddle.net/)
