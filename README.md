@@ -87,3 +87,20 @@ API
 ### Online Compiler
 
 * [C# Online Compiler | .NET Fiddle](https://dotnetfiddle.net/)
+
+---
+
+* [.NET SDKs downloads for Visual Studio](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks)
+* [dotnet/sdk: Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI](https://github.com/dotnet/sdk)
+
+Call C# dll
+
+[How to use a C# dll in python project | Using Function from C# dll | Dynamic Link Library | Python - YouTube](https://www.youtube.com/watch?v=lnsTJRY1jPU)
+
+[pythonnet/pythonnet: Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.](https://github.com/pythonnet/pythonnet)
+
+Call C? dll
+
+[Calling a DLL from a script tool—ArcMap | Documentation](https://desktop.arcgis.com/en/arcmap/latest/analyze/creating-tools/calling-a-dll-from-a-script-tool.htm)
+[How can I use a DLL file from Python? - Stack Overflow](https://stackoverflow.com/questions/252417/how-can-i-use-a-dll-file-from-python)
+[ctypes — A foreign function library for Python — Python 3.10.4 documentation](https://docs.python.org/3/library/ctypes.html)

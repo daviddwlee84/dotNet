@@ -54,3 +54,8 @@ Compile C# code without it being a project or solution
 Compile C# Code Into DLL And Invoke It Using Solution
 
 * [C# Creating a .DLL to hide your c# code and then use it in your c# program - YouTube](https://www.youtube.com/watch?v=tWtB1iRp8QM)
+
+Reference DLL
+
+* [c# - Reference external DLL in .NET Core project - Stack Overflow](https://stackoverflow.com/questions/40108106/reference-external-dll-in-net-core-project)
+* [Referencing a .NET DLL directly, using the .NET Core toolchain | by Toni Solarin-Sodara | Medium](https://medium.com/@tonerdo/referencing-a-net-dll-directly-using-the-net-core-toolchain-16f0af46a4dc)
